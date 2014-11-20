@@ -3,7 +3,7 @@ DoCreator
 
 A Web UI to generate .docx files.
 
-Requires: PHP
+Requires: PHP, MySQL, Web Server(Apache)
 
 Mainly using "PHPWord" Opensource in the background. src: http://phpword.codeplex.com/
 
