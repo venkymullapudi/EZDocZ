@@ -1,7 +1,7 @@
 DoCreator
 =========
 
-Drag, Drop, Fill and Submit to create .docx files.
+Drag, Drop, Fill and Submit; To create .docx files.
 
 Requires: PHP, MySQL, Web Server(Apache) setup
 
