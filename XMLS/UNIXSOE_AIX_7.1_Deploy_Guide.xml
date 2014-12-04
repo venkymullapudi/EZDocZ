@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='us-ascii'?><slideshow title='UNIXSOE_AIX_7.1_Deploy_Guide' date='Date of Documentation' author='Venky' ><item>Introduction</item><item>This guide is intended for IBM AIX users who have experience using AIX. It mainly has the deployment steps for a SOE AIX Build</item><item>Pre-Requisites</item><item>Namely
-A LPAR
-A VIO Server
-Minimum 30GB disk
-1GB RAM
-0.1 CPU</item>
