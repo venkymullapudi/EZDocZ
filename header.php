@@ -4,7 +4,7 @@
 
 <div id="header">
    <ul id="header_nav">
-      <a href="http://localhost/docreator/" style="right:0px;color:red;background:#ffffff;">DoCreator</a>
+      <a href="#" style="right:0px;color:red;background:#ffffff;">EasyDoCreator</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<!--
 	 <a style="color:red"> Download the document as</a>
