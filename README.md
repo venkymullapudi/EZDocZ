@@ -1,12 +1,10 @@
 DoCreator
 =========
 
-A Web UI to generate .docx files.
+Drag, Drop, Fill and Submit to create .docx files.
 
-Requires: PHP, MySQL, Web Server(Apache)
+Requires: PHP, MySQL, Web Server(Apache) setup
+
+Only 4 tools have been added in the test run, which are not even drag and drop. A lot more will be added by calling the methods from PHPWord.
 
 Mainly using "PHPWord" Opensource in the background. src: http://phpword.codeplex.com/
-
-I have only added 4 tools as of now, but a lot more can be added by calling the methods from PHPWord.
-
-This project will be further developed to include all of PHPWord's features.
